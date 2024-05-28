@@ -40,8 +40,23 @@ WHERE CONDITION = NET
 ![](https://github.com/faithadebowale/FCB-DTAProject/blob/main/Photo%20Passport.jpeg)
 
 
-
-
 ![](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| HEADING 1 | HEADING 2 | HEADING 3 |
+| --------- | --------- | --------- |
+| DATA 1 | DATA 2 | DATA 3 |
 
 
