@@ -41,3 +41,7 @@ WHERE CONDITION = NET
 
 
 
+
+![](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)
+
+
